@@ -10,11 +10,11 @@ I'm gathering experience in software development in the IoT domain. Additionally
 🚀 Team collaboration and representation<br>
 
 ## Work Ethics :
-To be precise, some of my work ethics can be listed as : 😸
-✅ "Never say no" attitude. Everything is worth a shot first. 
-✅ Problem solver. " If there isnt a solution, it isnt a problem to begin with. "
-✅ Smart and dynamic worker.
-✅ Participation in various groups and clubs for interpersonal skill development is as crucial as the work itself.
+To be precise, some of my work ethics can be listed as : 😸 <br>
+✅ "Never say no" attitude. Everything is worth a shot first. <br>
+✅ Problem solver. " If there isnt a solution, it isnt a problem to begin with. "<br>
+✅ Smart and dynamic worker.<br>
+✅ Participation in various groups and clubs for interpersonal skill development is as crucial as the work itself.<br>
 
 ## Fun facts :
 I'm much more than just a developer. In my spare time :
