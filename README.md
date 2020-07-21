@@ -17,21 +17,21 @@ To be precise, some of my work ethics can be listed as : 😸 <br>
 ✅ Participation in various groups and clubs for interpersonal skill development is as crucial as the work itself.<br>
 
 ## Fun facts :
-I'm much more than just a developer. In my spare time :
--I study philosophy, self-help books to enhance productivity and creativity, and books on personal finance and stability. 
--I write and curate documents of what I find insightful. 
--I am a registered member of various debate and poetry clubs and have participated in multiple events and competitions. 
--I am also musically inclined, trained in classical vocals and can play guitar and harmonium. 
--I love to cook and explore cullinary adventures and wish to own a restaurant someday.
--To cater to my various personality traits, I have separate handles on social media platforms for my creative ventures. 
+I'm much more than just a developer. In my spare time :<br>
+-I study philosophy, self-help books to enhance productivity and creativity, and books on personal finance and stability. <br>
+-I write and curate documents of what I find insightful. <br>
+-I am a registered member of various debate and poetry clubs and have participated in multiple events and competitions. <br>
+-I am also musically inclined, trained in classical vocals and can play guitar and harmonium. <br>
+-I love to cook and explore cullinary adventures and wish to own a restaurant someday.<br>
+-To cater to my various personality traits, I have separate handles on social media platforms for my creative ventures. <br>
 
 ## Collaboration and Mentors:
 I'm looking to collaborate with and contribute to the open source world. I'm also looking for mentors who can guide me with ML and Deep Learning projects.
 If you are willing to help, kindly do reach out to me. 
 
 ## Get in touch
-- LinkedIn: https://www.linkedin.com/in/veeranganadash/
-- Gmail : veeradash@gmail.com
-- Medium: https://medium.com/@veeradash
-- Productivity/Curation IG: https://www.instagram.com/productive_potatoes/
-- Food/Recipes IG : https://www.instagram.com/dash_tries/
+- LinkedIn: https://www.linkedin.com/in/veeranganadash/ <br>
+- Gmail : veeradash@gmail.com <br>
+- Medium: https://medium.com/@veeradash <br>
+- Productivity/Curation IG: https://www.instagram.com/productive_potatoes/ <br>
+- Food/Recipes IG : https://www.instagram.com/dash_tries/ <br>
