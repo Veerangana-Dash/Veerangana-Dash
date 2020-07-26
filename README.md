@@ -16,14 +16,7 @@ To be precise, some of my work ethics can be listed as : 😸 <br>
 ✅ Smart and dynamic worker.<br>
 ✅ Participation in various groups and clubs for interpersonal skill development is as crucial as the work itself.<br>
 
-## Fun facts :
-I'm much more than just a developer. In my spare time :<br>
--I study philosophy, self-help books to enhance productivity and creativity, and books on personal finance and stability. <br>
--I write and curate documents of what I find insightful. <br>
--I am a registered member of various debate and poetry clubs and have participated in multiple events and competitions. <br>
--I am also musically inclined, trained in classical vocals and can play guitar and harmonium. <br>
--I love to cook and explore cullinary adventures and wish to own a restaurant someday.<br>
--To cater to my various personality traits, I have separate handles on social media platforms for my creative ventures. <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Veerangana-Dash&show_icons=true&hide_border=true)
 
 ## Collaboration and Mentors:
 I'm looking to collaborate with and contribute to the open source world. I'm also looking for mentors who can guide me with ML and Deep Learning projects.
@@ -34,4 +27,4 @@ If you are willing to help, kindly do reach out to me.
 - Gmail : veeradash@gmail.com <br>
 - Medium: https://medium.com/@veeradash <br>
 - Productivity/Curation IG: https://www.instagram.com/productive_potatoes/ <br>
-- Food/Recipes IG : https://www.instagram.com/dash_tries/ <br>
+
